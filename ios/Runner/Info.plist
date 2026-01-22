@@ -26,6 +26,9 @@
 	<true/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>NSFamilyControlsUsageDescription</key>
+<string>This app helps users stay focused by blocking apps</string>
+
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>
